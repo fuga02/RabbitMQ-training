@@ -1,0 +1,17 @@
+D:\.Net projects\RabbitMq\ConsoleApps\App3\bin\Debug\net7.0\App3.exe
+D:\.Net projects\RabbitMq\ConsoleApps\App3\bin\Debug\net7.0\App3.deps.json
+D:\.Net projects\RabbitMq\ConsoleApps\App3\bin\Debug\net7.0\App3.runtimeconfig.json
+D:\.Net projects\RabbitMq\ConsoleApps\App3\bin\Debug\net7.0\App3.dll
+D:\.Net projects\RabbitMq\ConsoleApps\App3\bin\Debug\net7.0\App3.pdb
+D:\.Net projects\RabbitMq\ConsoleApps\App3\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.csproj.AssemblyReference.cache
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.AssemblyInfoInputs.cache
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.AssemblyInfo.cs
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.csproj.CoreCompileInputs.cache
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.csproj.CopyComplete
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.dll
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\refint\App3.dll
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.pdb
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\App3.genruntimeconfig.cache
+D:\.Net projects\RabbitMq\ConsoleApps\App3\obj\Debug\net7.0\ref\App3.dll
