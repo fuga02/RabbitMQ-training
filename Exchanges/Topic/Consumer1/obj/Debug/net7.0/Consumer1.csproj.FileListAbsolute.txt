@@ -1,0 +1,17 @@
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\bin\Debug\net7.0\Consumer1.exe
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\bin\Debug\net7.0\Consumer1.deps.json
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\bin\Debug\net7.0\Consumer1.runtimeconfig.json
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\bin\Debug\net7.0\Consumer1.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\bin\Debug\net7.0\Consumer1.pdb
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.csproj.AssemblyReference.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.AssemblyInfoInputs.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.AssemblyInfo.cs
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.csproj.CoreCompileInputs.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.csproj.CopyComplete
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\refint\Consumer1.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.pdb
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\Consumer1.genruntimeconfig.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\Exchanges\Topic\Consumer1\obj\Debug\net7.0\ref\Consumer1.dll
