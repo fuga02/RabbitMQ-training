@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zst38FXtCMec/3/rFmp8/VY9B0WgXQQGqLySeYn4dVNg+7cUBhZ/C8HgOisrNwTvWbk379oEvucVL2Zb39FacA==",
+  "dgSpecHash": "MV7pur3M1cBjC/GUwhIX9fOBysF+5Fql/M0Xn8//oa2IBkF0e3NxQrba6GeEPLPJGpGRmpr/8OL+wICczHIIgA==",
   "success": true,
   "projectFilePath": "D:\\.Net projects\\RabbitMq\\RabbitMQ-training\\Exchanges\\Fanount\\Consumer1\\Consumer1.csproj",
   "expectedPackageFiles": [
