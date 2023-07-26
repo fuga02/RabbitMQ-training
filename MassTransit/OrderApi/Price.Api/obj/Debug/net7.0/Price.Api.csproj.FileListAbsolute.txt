@@ -1,0 +1,6 @@
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Price.Api\obj\Debug\net7.0\Price.Api.csproj.AssemblyReference.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Price.Api\obj\Debug\net7.0\Price.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Price.Api\obj\Debug\net7.0\Price.Api.AssemblyInfoInputs.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Price.Api\obj\Debug\net7.0\Price.Api.AssemblyInfo.cs
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Price.Api\obj\Debug\net7.0\Price.Api.csproj.CoreCompileInputs.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Price.Api\obj\Debug\net7.0\Price.Api.MvcApplicationPartsAssemblyInfo.cache

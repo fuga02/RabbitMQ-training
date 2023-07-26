@@ -1,0 +1,43 @@
+﻿version: '3.7'
+
+services:
+  order_api:
+    image: order_api
+    container_name: order_api
+    depends_on:
+      - rabbitmq
+    ports:
+      - 4545:80
+    build:
+      context: .
+      dockerfile: Dockerfile.Order
+    networks:
+      - internal
+
+  price_api:
+    image: price_api
+    container_name: price_api
+    depends_on:
+      - rabbitmq
+    ports:
+      - 4546:80
+    build:
+      context: .
+      dockerfile: Dockerfile.Price
+    networks:
+      - internal
+    
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: 'rabbitmq'
+    ports:
+      - 5672:5672
+      - 15672:15672
+    volumes:
+      - ~/.docker-conf/rabbitmq/data/:/var/lib/rabbitmq/
+      - ~/.docker-conf/rabbitmq/log/:/var/log/rabbitmq
+    networks:
+      - internal
+
+networks:
+  internal:
