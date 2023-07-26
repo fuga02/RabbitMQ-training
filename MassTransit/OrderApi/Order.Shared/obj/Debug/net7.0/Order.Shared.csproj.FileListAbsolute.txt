@@ -1,0 +1,12 @@
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\bin\Debug\net7.0\Order.Shared.deps.json
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\bin\Debug\net7.0\Order.Shared.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\bin\Debug\net7.0\Order.Shared.pdb
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.csproj.AssemblyReference.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.AssemblyInfoInputs.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.AssemblyInfo.cs
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.csproj.CoreCompileInputs.cache
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\refint\Order.Shared.dll
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\Order.Shared.pdb
+D:\.Net projects\RabbitMq\RabbitMQ-training\MassTransit\OrderApi\Order.Shared\obj\Debug\net7.0\ref\Order.Shared.dll
