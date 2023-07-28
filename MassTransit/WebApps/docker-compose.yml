@@ -1,0 +1,43 @@
+version: '3.7'
+
+services:
+  app1:
+    image: app1
+    container_name: app1
+    depends_on:
+      - rabbitmq
+    ports:
+      - 2002:80
+    build:
+      context: .
+      dockerfile: Dockerfile.App1
+    networks:
+      - internal
+
+  app2:
+    image: app2
+    container_name: app2
+    depends_on:
+      - rabbitmq
+    ports:
+      - 2003:80
+    build:
+      context: .
+      dockerfile: Dockerfile.App2
+    networks:
+      - internal
+    
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: 'rabbitmq'
+    ports:
+      - 5672:5672
+      - 15672:15672
+    volumes:
+      - ~/.docker-conf/rabbitmq/data/:/var/lib/rabbitmq/
+      - ~/.docker-conf/rabbitmq/log/:/var/log/rabbitmq
+    networks:
+      - internal
+
+networks:
+  internal:
